@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/*
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/sessions/
+.claude/projects/
+.claude/settings*.json
